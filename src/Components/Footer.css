@@ -1,5 +1,5 @@
 .footer-parent * {
-    background-color: rgb(146, 195, 22);
+    /* background-color: black; */
     color: white;
     box-sizing: border-box;
 }
@@ -10,7 +10,7 @@
     position: relative;
     z-index: 7;
     margin-left: 20px;
-    background-color: rgb(6, 207, 67);
+    background-color: white;
     color: white;
 }
 
